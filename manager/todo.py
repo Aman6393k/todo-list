@@ -1,5 +1,4 @@
 class Item:
-    # attribute
 
     #constructor
     def __init__(self, name, count):
